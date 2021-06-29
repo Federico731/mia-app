@@ -1,0 +1,14 @@
+.loading{
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 15%;
+}
+ h3{
+     text-align: center;
+ }
+
+ .table{
+   margin: 10px 250px 0px 250px;
+
+ }
