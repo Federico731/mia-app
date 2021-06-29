@@ -1,0 +1,30 @@
+.Avatar{
+    border-color: black;
+    border-style: solid;
+}
+
+.lista{
+    text-align: center;
+}
+
+.loading{
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 15%;
+}
+
+.cerchi{
+    position: absolute;
+    margin-left: 50%;
+   margin-right: 50%;
+}
+
+.text{
+    align-items: center;
+}
+
+h4{
+    color: blue;
+    margin-left: 30px;
+}

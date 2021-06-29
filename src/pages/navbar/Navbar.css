@@ -1,0 +1,15 @@
+.Navbar{
+    height: 10vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: dodgerblue;
+}
+
+.Elenco{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 20%;
+}
+

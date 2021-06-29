@@ -1,0 +1,5 @@
+.insert {
+    text-decoration: solid;
+    display: flex;
+    justify-content: space-between;
+}
