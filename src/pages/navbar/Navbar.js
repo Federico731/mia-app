@@ -11,7 +11,8 @@ function Lista() {
             <ul className="Elenco">
                <Link to="/">
                    <li>Home</li>
-               </Link> 
+               </Link>
+               
                <Link to="/lista">
                  <li>Squadre</li>
                </Link>
@@ -20,6 +21,9 @@ function Lista() {
                </Link>
                <Link to="/regolamento">
                  <li>Regolamento</li>
+              </Link>
+              <Link to="/tabellone">
+                 <li>Europei</li>
               </Link>  
             </ul>
         </div>

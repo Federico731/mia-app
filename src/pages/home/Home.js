@@ -8,6 +8,7 @@ function Home() {
   const title = process.env.REACT_APP_TITLE
   const title2 = process.env.REACT_APP_CLASSE
   const title3 = process.env.REACT_APP_REGOLA
+  const title4 = process.env.REACT_APP_TAB
   return (
     <div className="App">
       <div  className="logo"><img src="./logo.png" width="350px" height="250px"></img></div>
@@ -20,6 +21,9 @@ function Home() {
      </Link>
      <Link to="/regolamento">
          <button className="homeBtn">{title3}</button>
+     </Link>
+     <Link to="/tabellone">
+         <button className="homeBtn">Europei</button>
      </Link>
      <Clock />
     </div>
