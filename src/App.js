@@ -6,7 +6,7 @@ import Classifica from './pages/classifica/Classifica';
 import Regolamento from './pages/regolamento/Regolamento';
 import Tabellone from './pages/tabellone/tabellone'
 
-function App() {
+function Prima() {
   return (
     <Router>
       <div>
@@ -23,4 +23,4 @@ function App() {
   )
 }
 
-export default App;
+export default Prima;
